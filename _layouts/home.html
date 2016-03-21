@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+{% include head-home.html %}
+
+<body>
+    {% include nav-home.html %}
+    <div class="home">
+        <header class="header-home">
+            <a class="link" href="{{ site.url }}/about/">
+                <img class="selfie" alt="{{ site.title }}" src="{{ site.url }}/{{ site.picture }}">
+            </a>
+            <h1 class="title-home">{{ site.title }}</h1>
+            <h2 class="description-home">{{ site.bio }}</h2>
+            {% include social-links.html %}
+        </header>
+        {% include footer-home.html %}
+    </div>
+</body>
+
+</html>
