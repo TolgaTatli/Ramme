@@ -322,6 +322,7 @@ iframe {
     display: block;
 }
 table {
+    border: 1px solid #000;
     border-collapse: collapse;
     border-spacing: 0;
     margin-bottom: 1.5em;
