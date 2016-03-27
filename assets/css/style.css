@@ -147,14 +147,15 @@ body {
 }
 .nav-home > .list > .item {
     display: inline-block;
-    padding: 0 0.625em 0;
     font-weight: bold;
 }
 .nav-home > .list > .item:hover {
+    display: inline-block;
     background-color: #e0e0e0;
     color: #fff;
 }
 .nav-home > .list > .item > .link {
+    padding: 0 0.625em 0;
     color: #000000;
     text-decoration: none;
 }
