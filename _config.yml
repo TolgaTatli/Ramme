@@ -43,8 +43,8 @@ steam: username
 youtube: username
 #soundcloud: username
 #weibo: username
-flickr: username
-codepen: username
+#flickr: username
+#codepen: username
 
 # Paginate
 # if you don't need pagination, comment the *paginate* configs below
