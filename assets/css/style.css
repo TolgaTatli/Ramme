@@ -388,9 +388,11 @@ th {
   }
   .home {
     width: 80%;
+    margin-top: 6em;
   }
   .nav-home {
     width: 80%;
+    top: 6.65em;
   }
   .author-social {
     padding: 0.7em;;
