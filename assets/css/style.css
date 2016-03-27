@@ -380,7 +380,7 @@ table {
     width: 80%;
   }
   .author-social {
-    padding: 0.375em 0.313em 0.375em;
+    padding: 0.7em;;
     margin: 0 0.188em 0;
     font-size: 0.625em;
   }
@@ -410,7 +410,7 @@ table {
     width: 55%;
   }
   .author-social {
-    padding: 0.375em 0.625em 0.375em;
+    padding: 0.7em;
     margin: 0 0.375em 0;
     font-size: 0.688em;
   }
@@ -428,7 +428,7 @@ table {
     width: 45%;
   }
   .author-social {
-    padding: 0.375em 0.625em 0.375em;
+    padding: 0.7em;
     margin: 0 0.375em 0;
     font-size: 0.75em;
   }
@@ -441,7 +441,7 @@ table {
     width: 35%;
   }
   .author-social {
-    padding: 0.375em 0.625em 0.375em;
+    padding: 0.7em;
     margin: 0 0.375em 0;
     font-size: 0.813em;
   }
