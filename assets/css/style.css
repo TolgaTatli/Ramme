@@ -108,6 +108,7 @@ body {
 .nav > .list > .item {
     display: inline-block;
     font-weight: bold;
+    transition: all .3s;
 }
 .nav > .list > .item:hover {
     background-color: #000;
@@ -148,6 +149,7 @@ body {
 .nav-home > .list > .item {
     display: inline-block;
     font-weight: bold;
+    transition: all .3s;
 }
 .nav-home > .list > .item:hover {
     background-color: #000;
@@ -187,9 +189,12 @@ body {
     text-decoration: none;
     color: #fff !important;
     background: #000;
+    transition: all .3s;
 }
 .author-social:hover {
-	background: #242424;
+	background: #fff;
+	color: #000 !important;
+	border: 1px solid #000;
 }
 .footer {
     display: block;
