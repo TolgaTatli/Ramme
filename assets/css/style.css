@@ -186,7 +186,7 @@ body {
     display: inline-block;
     border: 1px solid #000;
     padding: 0.7em;
-    margin: 0 0.625em 0;
+    margin: 0.5em;
     text-decoration: none;
     color: #fff !important;
     background: #000;
@@ -394,7 +394,7 @@ th {
   }
   .author-social {
     padding: 0.7em;;
-    margin: 0 0.188em 0;
+    margin: 0.188em;
     font-size: 0.625em;
   }
   .toc {
@@ -424,7 +424,7 @@ th {
   }
   .author-social {
     padding: 0.7em;
-    margin: 0 0.375em 0;
+    margin: 0.375em;
     font-size: 0.688em;
   }
   .toc {
@@ -442,7 +442,7 @@ th {
   }
   .author-social {
     padding: 0.7em;
-    margin: 0 0.375em 0;
+    margin: 0.375em;
     font-size: 0.75em;
   }
 }
@@ -455,7 +455,7 @@ th {
   }
   .author-social {
     padding: 0.7em;
-    margin: 0 0.375em 0;
+    margin: 0.375em;
     font-size: 0.813em;
   }
 }
