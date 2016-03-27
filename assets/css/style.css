@@ -533,3 +533,13 @@ table {
     background-color: #fff;
     border: 1px solid #000;
 }
+td {
+    line-height: 2.5em;
+    padding: 0.3em;
+    border-top: 1px solid #aaa;
+}
+th {
+    background-color: #efefef;
+    line-height: 2.5em;
+    padding: 0.3em;
+}
