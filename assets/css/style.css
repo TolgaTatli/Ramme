@@ -183,6 +183,7 @@ body {
     font-size: 0.85em;
 }
 .author-social {
+    display: inline-block;
     border: 1px solid #000;
     padding: 0.7em;
     margin: 0 0.625em 0;
