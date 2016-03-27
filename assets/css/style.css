@@ -150,11 +150,11 @@ body {
     font-weight: bold;
 }
 .nav-home > .list > .item:hover {
-    display: inline-block;
     background-color: #e0e0e0;
     color: #fff;
 }
 .nav-home > .list > .item > .link {
+    display: inline-block;
     padding: 0 0.625em 0;
     color: #000000;
     text-decoration: none;
