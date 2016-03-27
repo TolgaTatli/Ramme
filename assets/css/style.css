@@ -249,24 +249,25 @@ body {
     font-size: 0.875em;
 }
 a {
-	text-decoration:none;
-	color:#343434
+    text-decoration:none;
+    color:#343434;
+    transition: all .3s;
 }
 a:visited {
-	color:#4e4e4e
+    color:#4e4e4e
 }
 a:hover {
-	color:#1b1b1b
+    color:#1b1b1b
 }
 a:focus {
-	outline:thin dotted;
-	color:#343434
+    outline:thin dotted;
+    color:#343434
 }
 a:hover,a:active {
-	outline:0
+    outline:0
 }
 figcaption {
-	padding-top: 0;
+    padding-top: 0;
 	font-size:14px;
 	font-size:.875rem;
 	line-height:1.8571;
