@@ -31,20 +31,20 @@ facebook: username
 #bing-verify:
 github: username
 #stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin: #username
+linkedin: #username
 #xing: #username
 instagram: username
-#lastfm: #username
-#tumblr: #username
-#pinterest: #username
-#foursquare: #username
-#steam: #username
+lastfm: #username
+tumblr: #username
+pinterest: #username
+foursquare: #username
+steam: #username
 #dribbble: #username
-#youtube: #username
+youtube: #username
 #soundcloud: #username
 #weibo: #username
-#flickr: #username
-#codepen: #username
+flickr: #username
+codepen: #username
 
 # Paginate
 # if you don't need pagination, comment the *paginate* configs below
