@@ -343,6 +343,10 @@ table {
     float: left;
     width: 33.33333%;
 }
+.image-pull-right {
+    float: right;
+    margin-top: 0;
+}
 .post-list a:link, .post-list a:visited, .project-list a:link, .project-list a:visited {
     color: #000000;
     text-decoration: none;
