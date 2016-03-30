@@ -108,7 +108,7 @@ body {
 .nav > .list > .item {
     display: inline-block;
     font-weight: bold;
-    transition: all .3s;
+    transition: all .5s;
 }
 .nav > .list > .item:hover {
     background-color: #000;
@@ -149,7 +149,7 @@ body {
 .nav-home > .list > .item {
     display: inline-block;
     font-weight: bold;
-    transition: all .3s;
+    transition: all .5s;
 }
 .nav-home > .list > .item:hover {
     background-color: #000;
@@ -190,7 +190,7 @@ body {
     text-decoration: none;
     color: #fff !important;
     background: #000;
-    transition: all .3s;
+    transition: all .5s;
 }
 .author-social:hover {
 	background: #fff;
@@ -252,7 +252,7 @@ body {
 a {
     text-decoration:none;
     color:#343434;
-    transition: all .3s;
+    transition: all .5s;
 }
 a:visited {
     color:#4e4e4e
