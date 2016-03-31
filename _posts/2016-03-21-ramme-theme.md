@@ -69,7 +69,7 @@ How Ramme is organized and what the various files are. All posts, layouts, inclu
 │   ├── post-index.html                         # Post list layout
 │   └── project.html                            # Project list layout
 ├── _posts                                      # MarkDown formatted posts
-├── _sass                                      # Sass stylesheets
+├── _sass                                       # Sass stylesheets
 └── projects                                    # Projects list page
 {% endhighlight %}   
 
