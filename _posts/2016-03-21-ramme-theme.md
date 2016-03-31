@@ -40,7 +40,8 @@ How Ramme is organized and what the various files are. All posts, layouts, inclu
 ├── 404.html                                    # 404 page
 ├── about                                       # About Page
 ├── assets
-│   ├── css                                     # Stylesheets
+│   ├── css                                     # Compiled stylesheets
+│   ├── fonts                                   # webfonts
 │   ├── img                                     # Folder for images
 │   │   ├── favicon                             # Folder for favicons
 │   └── js                                      # Folder for scripts
@@ -68,6 +69,7 @@ How Ramme is organized and what the various files are. All posts, layouts, inclu
 │   ├── post-index.html                         # Post list layout
 │   └── project.html                            # Project list layout
 ├── _posts                                      # MarkDown formatted posts
+├── _sass                                      # Sass stylesheets
 └── projects                                    # Projects list page
 {% endhighlight %}   
 
@@ -92,7 +94,7 @@ Used to generate absolute urls in `sitemap.xml`, `feed.xml`, and for generating 
 Examples:
 
 {% highlight yaml %}
-url: http://mmistakes.github.io/minimal-mistakes
+url: http://taylantatli.me/Ramme
 url: http://localhost:4000
 url: //cooldude.github.io
 url:

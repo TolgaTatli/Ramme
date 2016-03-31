@@ -1,0 +1,134 @@
+a {
+	text-decoration: none;
+	color: $color_7;
+	transition: all .5s;
+	&:visited {
+		color: $color_8;
+	}
+	&:hover {
+		color: $color_9;
+		outline: 0;
+	}
+	&:focus {
+		outline: 0;
+		color: $color_7;
+	}
+	&:active {
+		border: 0;
+		outline: 0;
+	}
+}
+figcaption {
+	padding-top: 0;
+	font-size: 14px;
+	font-size: .875rem;
+	line-height: 1.8571;
+	line-height: 1.3;
+	color: $color_10;
+}
+p {
+	margin: 0 0 1em;
+	line-height: 1.6;
+	code {
+		@extend %extend_1;
+	}
+}
+hr {
+	margin: 1.563em 0 1.563em;
+	color: $color_11;
+}
+pre {
+	font-size: 12px;
+	font-size: .75rem;
+	line-height: 1.5;
+	overflow-x: auto;
+	white-space: pre;
+	font-family: $font2, !important;
+}
+code {
+	font-family: $font2, !important;
+	font-size: 0.75rem;
+}
+li code {
+	@extend %extend_1;
+}
+.gist-file {
+	border: 1px solid $color_1 !important;
+	border-radius: 0 !important;
+}
+blockquote {
+	padding: 0 0.688em;
+	border-left: 5px solid $color_13;
+	line-height: 1.563em;
+	font-style: italic;
+}
+iframe {
+	max-width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+table {
+	border: 1px solid $color_1;
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin-bottom: 1.5em;
+	width: 100%;
+}
+td {
+	line-height: 2.5em;
+	padding: 0.4em;
+	border-top: 1px solid $color_1;
+}
+th {
+	background-color: $color_1;
+	line-height: 2.5em;
+	padding: 0.4em;
+	color: $color_2;
+}
+.image-pull-right {
+	float: right;
+	margin-top: 0;
+	img {
+		margin: 0;
+	}
+}
+.btn {
+	display: inline-block;
+	margin-bottom: 1.25rem;
+	padding: 0.5rem 1.25rem;
+	font-size: 1rem;
+	font-weight: 700;
+	background-color: $color_2 !important;
+	color: $color_1 !important;
+	border: 1px solid $color_1 !important;
+	text-decoration: none !important;
+	&:hover {
+		background-color: $color_11 !important;
+		color: $color_14 !important;
+		border: 1px solid $color_4 !important;
+	}
+}
+kbd {
+	display: inline-block;
+	padding: 3px 5px;
+	font-size: 11px;
+	line-height: 10px;
+	color: $color_15;
+	vertical-align: middle;
+	background-color: $color_16;
+	border: solid 1px $color_17;
+	border-bottom-color: $color_18;
+	border-radius: 3px;
+	box-shadow: inset 0 -1px 0 $color_18;
+}
+.half img {
+	display: inline;
+	float: left;
+	width: 50%;
+}
+.third img {
+	display: inline;
+	float: left;
+	width: 33.33333%;
+}

@@ -56,7 +56,8 @@ a {
 }
 
 a:active,
-a:hover {
+a:hover,
+a:focus {
   outline-width: 0;
 }
 
@@ -198,6 +199,7 @@ html [type="button"],
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
+	outline: 0;
   padding: 0;
 }
 
