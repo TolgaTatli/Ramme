@@ -34,11 +34,13 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 11em;
+	transition: all .7s;
 }
 .header-home {
 	display: block;
 	margin: 0 auto;
 	text-align: center;
+	transition: all .7s;
 }
 .wrapper {
 	width: 50%;
@@ -170,6 +172,7 @@ body {
 	margin-left: auto;
 	text-align: center;
 	font-size: 0.85em;
+	transition: all .7s;
 	> .list {
 		padding: 0 0.813em 0;
 		list-style: none;
@@ -211,6 +214,7 @@ body {
 	margin-left: auto;
 	text-align: center;
 	font-size: 0.85em;
+	transition: all .7s;
 	> .list {
 		padding: 0 0.813em 0;
 		list-style: none;
@@ -283,6 +287,7 @@ body {
 	font-size: 0.85em;
 	font-weight: bold;
 	color: $color_6;
+	transition: all .7s;
 	a {
 		color: $color_6;
 		opacity: .7;
@@ -308,6 +313,7 @@ body {
 	font-size: 0.85em;
 	font-weight: bold;
 	color: $color_6;
+	transition: all .7s;
 	a {
 		color: $color_6;
 		opacity: .7;
@@ -350,6 +356,7 @@ body {
 		background: $color_0;
 		margin-bottom: 2em;
 		border: 1px solid $color_1;
+		transition: all .7s;
 	}
 }
 @media only screen and(min-width: 700px) and(max-width: 1050px) {
@@ -380,6 +387,7 @@ body {
 		background: $color_0;
 		margin-bottom: 2em;
 		border: 1px solid $color_1;
+		transition: all .7s;
 	}
 }
 @media only screen and(min-width: 1050px) and(max-width: 1300px) {
@@ -422,6 +430,7 @@ body {
 		background-color: $color_2;
 		font-size: 95%;
 		border: 1px solid $color_1;
+		transition: all .7s;
 	}
 }
 .goup-container {
