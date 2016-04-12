@@ -26,10 +26,10 @@ I'm not a designer or something, so I'm sure there is a better way to make this 
 
 I see some people using this theme. I need to search on Github to find who use it. But I don't want to search like this. If you like this theme or using it, please give a **star** for motivation.
 
-<a aria-label="Star TaylanTatli/Ramme on GitHub" data-count-aria-label="# stargazers on GitHub" data-count-api="/repos/TaylanTatli/Ramme#stargazers_count" data-count-href="/TaylanTatli/Ramme/stargazers" data-style="mega" data-icon="octicon-star" href="https://github.com/TaylanTatli/Ramme" class="github-button">Star</a>{: style="margin-left:0;"}
+<iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Ramme&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
       
 ## Installation
-* Fork the [Repo](https://github.com/TaylanTatli/Ramme/fork) <a aria-label="Fork TaylanTatli/Ramme on GitHub" data-style="mega" data-icon="octicon-repo-forked" href="https://github.com/TaylanTatli/Ramme/fork" class="github-button">Fork</a>{: style="margin-left:0;"}
+* Fork the [Repo](https://github.com/TaylanTatli/Ramme/fork) <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Ramme&type=fork&count=false" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 * Edit `_config.yml` file.
 * Remove sample posts from `_posts` folder and add yours.
 * Edit `index.md` file in `about` folder.
@@ -178,5 +178,3 @@ Found a bug or aren't quite sure how something works? By all means [file a GitHu
 ## License
 
 This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
-
-<script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
