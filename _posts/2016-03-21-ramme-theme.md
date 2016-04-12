@@ -29,8 +29,7 @@ I see some people using this theme. I need to search on Github to find who use i
 <a aria-label="Star TaylanTatli/Ramme on GitHub" data-count-aria-label="# stargazers on GitHub" data-count-api="/repos/TaylanTatli/Ramme#stargazers_count" data-count-href="/TaylanTatli/Ramme/stargazers" data-style="mega" data-icon="octicon-star" href="https://github.com/TaylanTatli/Ramme" class="github-button">Star</a>
       
 ## Installation
-* Fork the [Repo](https://github.com/TaylanTatli/Ramme/fork) >
-<a aria-label="Fork TaylanTatli/Ramme on GitHub" data-count-aria-label="# forks on GitHub" data-count-api="/repos/TaylanTatli/Ramme#forks_count" data-count-href="/TaylanTatli/Ramme/network" data-style="mega" data-icon="octicon-repo-forked" href="https://github.com/TaylanTatli/Ramme/fork" class="github-button">Fork</a>
+* Fork the [Repo](https://github.com/TaylanTatli/Ramme/fork) <a aria-label="Fork TaylanTatli/Ramme on GitHub" data-style="mega" data-icon="octicon-repo-forked" href="https://github.com/TaylanTatli/Ramme/fork" class="github-button">Fork</a>
 * Edit `_config.yml` file.
 * Remove sample posts from `_posts` folder and add yours.
 * Edit `index.md` file in `about` folder.
