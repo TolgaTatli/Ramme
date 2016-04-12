@@ -22,10 +22,15 @@ tag:
      
 I made this theme after seeing this [screenshot](http://spoonm.org/share/rice/01.png). I took some parts from @mmistakes, like TOC, sample posts. I never tought making a theme from scratch would be this hard. And it's still WIP.
      
-I'm not a designer or something, so I'm sure there is a better way to make this theme. But it's working and looks acceptable for different screen sizes. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful.    
+I'm not a designer or something, so I'm sure there is a better way to make this theme. But it's working and looks acceptable for different screen sizes. If something looks extremely ugly and you can't resist to fix it, just send me a PR. I will be grateful. 
+
+I see some people using this theme. I need to search on Github to find who use it. But I don't want to search like this. If you like this theme or using it, please give a **star** for motivation.
+
+<a aria-label="Star TaylanTatli/Ramme on GitHub" data-count-aria-label="# stargazers on GitHub" data-count-api="/repos/TaylanTatli/Ramme#stargazers_count" data-count-href="/TaylanTatli/Ramme/stargazers" data-style="mega" data-icon="octicon-star" href="https://github.com/TaylanTatli/Ramme" class="github-button">Star</a>
       
 ## Installation
-* Fork the [Ramme repo](https://github.com/TaylanTatli/Ramme/fork)
+* Fork the [Repo](https://github.com/TaylanTatli/Ramme/fork) >
+<a aria-label="Fork TaylanTatli/Ramme on GitHub" data-count-aria-label="# forks on GitHub" data-count-api="/repos/TaylanTatli/Ramme#forks_count" data-count-href="/TaylanTatli/Ramme/network" data-style="mega" data-icon="octicon-repo-forked" href="https://github.com/TaylanTatli/Ramme/fork" class="github-button">Fork</a>
 * Edit `_config.yml` file.
 * Remove sample posts from `_posts` folder and add yours.
 * Edit `index.md` file in `about` folder.
@@ -174,3 +179,5 @@ Found a bug or aren't quite sure how something works? By all means [file a GitHu
 ## License
 
 This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.
+
+<script async defer id="github-bjs" src="https://buttons.github.io/buttons.js"></script>
