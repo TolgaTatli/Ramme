@@ -1,4 +1,6 @@
 # Ramme Jekyll Theme
+    
+######(If you like this theme or using it, please give a :star: for motivation.)
 
 **[Ramme](http://taylantatli.github.io/Ramme)** is a simple jekyll theme.
 
