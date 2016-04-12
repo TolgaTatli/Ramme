@@ -29,7 +29,7 @@ I see some people using this theme. I need to search on Github to find who use i
 <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Ramme&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
       
 ## Installation
-* Fork the [Repo](https://github.com/TaylanTatli/Ramme/fork) <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Ramme&type=fork&count=false" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
+* Fork the [Repo](https://github.com/TaylanTatli/Ramme/fork) <iframe src="https://ghbtns.com/github-btn.html?user=TaylanTatli&repo=Ramme&type=fork&count=none" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 * Edit `_config.yml` file.
 * Remove sample posts from `_posts` folder and add yours.
 * Edit `index.md` file in `about` folder.
