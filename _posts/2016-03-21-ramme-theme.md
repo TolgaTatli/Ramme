@@ -171,7 +171,7 @@ To include an auto-generated **table of contents** for posts and pages, add the 
 
 ## Questions?
 
-Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/mmistakes/minimal-mistakes/issues/new). And if you make something cool with this theme feel free to let me know.
+Found a bug or aren't quite sure how something works? By all means [file a GitHub Issue](https://github.com/TaylanTatli/Ramme/issues/new). And if you make something cool with this theme feel free to let me know.
 
 ---
 
